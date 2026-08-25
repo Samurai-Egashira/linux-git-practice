@@ -1,0 +1,2 @@
+# linux-git-practice
+Linux/CUIの基本操作とGitHubを使った課題提出の流れを確認するための練習リポジトリ
