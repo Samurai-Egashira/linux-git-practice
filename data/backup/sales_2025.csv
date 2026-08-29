@@ -1,0 +1,4 @@
+date,order_id,product,category,quantity,unit_price,sales
+2025-11-10,O2025001,Keyboard,Peripheral,1,7800,7800
+2025-11-20,O2025002,Monitor,Display,1,34000,34000
+2025-12-03,O2025003,Wireless Mouse,Peripheral,2,4000,8000

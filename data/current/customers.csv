@@ -1,0 +1,5 @@
+customer_id,name,prefecture,segment
+C001,佐藤,東京都,corporate
+C002,鈴木,神奈川県,individual
+C003,高橋,千葉県,corporate
+C004,田中,埼玉県,individual
