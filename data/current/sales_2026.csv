@@ -1,0 +1,9 @@
+date,order_id,product,category,quantity,unit_price,sales
+2026-01-05,O2026001,Keyboard,Peripheral,2,8000,16000
+2026-01-07,O2026002,Wireless Mouse,Peripheral,3,4200,12600
+2026-01-12,O2026003,Monitor,Display,1,36000,36000
+2026-02-03,O2026004,Keyboard,Peripheral,1,8000,8000
+2026-02-15,O2026005,USB-C Hub,Peripheral,4,5500,22000
+2026-03-02,O2026006,Laptop Stand,Accessory,2,6800,13600
+2026-03-20,O2026007,Monitor,Display,2,36000,72000
+2026-04-10,O2026008,Keyboard,Peripheral,5,8000,40000
